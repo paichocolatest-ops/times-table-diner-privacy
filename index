@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Times Table Diner - Privacy Policy & Support</title>
+  <style>
+    body { font-family: -apple-system, BlinkMacSystemFont, sans-serif; max-width: 680px; margin: 40px auto; padding: 0 20px; line-height: 1.6; color: #333; }
+    h1 { color: #111; }
+    h2 { margin-top: 28px; color: #222; }
+  </style>
+</head>
+<body>
+  <h1>Times Table Diner</h1>
+  <h2>Privacy Policy</h2>
+  <p><strong>Times Table Diner</strong> is designed for a general audience. We respect your privacy and handle data transparently:</p>
+  <ul>
+    <li><strong>No Direct Account Data:</strong> We do not require registration or directly collect personal information such as your name, email, or photos.</li>
+    <li><strong>Local Gameplay Progress:</strong> Your game scores and audio settings are processed locally on your device. Uninstalling the app removes this local data.</li>
+  </ul>
+  <p><strong>Effective Date:</strong> November 2026</p>
+  <h2>Support &amp; Contact</h2>
+  <p>Need help or have feedback? Contact us at: <strong>summer.tsai@summer-corp.com</strong></p>
+</body>
+</html>
